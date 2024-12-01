@@ -1,4 +1,4 @@
-package com.gmail.klokovsergey;
+package com.gmail.dmitry;
 
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import com.google.gson.Gson;
